@@ -9,3 +9,5 @@
 
 
 [use this vedio as for connecting your github with your vs code  ](https://youtu.be/KgGnTMwSxFU)
+
+[how to make your first pill request](https://youtu.be/dcCR86PtS-8)
