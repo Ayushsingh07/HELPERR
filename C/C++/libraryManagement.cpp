@@ -2,12 +2,12 @@
 //                   HEADER FILE USED IN PROJECT
 //****************************************************************
 
-#include<fstream.h>
+// #include<fstream.h>
 #include<conio.h>
 #include<stdio.h>
 #include<process.h>
 #include<string.h>
-#include<iomanip.h>
+// #include<iomanip.h>
 
 //***************************************************************
 //                   CLASS USED IN PROJECT
