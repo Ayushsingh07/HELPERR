@@ -21,8 +21,9 @@ Follow the given steps for easy acceptance of your PRs.
 3. Create a Pull Request.
 ## Authors
 
-- [@Ayushsingh07](https://github.com/Ayushsingh07)
+
 - [@divyansh-nishad](https://github.com/divyansh-nishad)
+- [@Ayushsingh07](https://github.com/Ayushsingh07)
 
 
 
