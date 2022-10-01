@@ -1,3 +1,2 @@
-print("test")
-print("test2")
-print("test3")
+for i in range(1,100):
+  print("hell open source")
