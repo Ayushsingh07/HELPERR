@@ -1,7 +1,8 @@
 <h>OPEN FOR ALL LETS START OPEN-SOURCE AND ACE IT</h>
 
 <h1>NEW TO HACKTOBER??</h1>
-<p>REGISTER ON THIS WEBSITE AND TR TO MERGE 4 PULL REQUESTS</p>
+<p>REGISTER ON THIS WEBSITE AND TRY TO MERGE 4 PULL REQUESTS</p>
+<p>add a code file o make a change</p>
 
 [Register here!!!](https://hacktoberfest.com/profile/)
 
