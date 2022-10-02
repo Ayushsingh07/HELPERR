@@ -20,13 +20,5 @@ suspend fun main(args: Array<String>) {
             })
         }
     }
-     val list:List<apiDataItem> = client.get("https://www.kontests.net/api/v1/all").body()
-//         getapiData(client)
-    list.forEach {
-        println(it.name)
-    }
 
 }
-
-suspend fun getapiData(client: HttpClient):List<apiDataItem> =   client.get("https://www.kontests.net/api/v1/all").body()
-
