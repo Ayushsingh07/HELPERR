@@ -1,9 +1,9 @@
 
-<a href = "https://github.com/Ayushsingh07/HELPERR/contributors">
+<a href = "[https://github.com/Ayushsingh07/HELPERR/contributors](https://github.com/Ayushsingh07/HELPERR/graphs/contributors)">
   <img src = "https://contrib.rocks/image?repo = Ayushsingh07/HELPERR"/>
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+
 #HELPER- A repository for HactoberFest 2022
 
 
