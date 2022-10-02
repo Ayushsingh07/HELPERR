@@ -1,5 +1,5 @@
 
-<a href = "[https://github.com/Ayushsingh07/HELPERR/contributors](https://github.com/Ayushsingh07/HELPERR/graphs/contributors)">
+<a href = "https://github.com/Ayushsingh07/HELPERR/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = Ayushsingh07/HELPERR"/>
 </a>
 
