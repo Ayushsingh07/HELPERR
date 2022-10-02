@@ -7,5 +7,5 @@ import io.ktor.client.call.*
 import io.ktor.client.request.*
 
 interface ApiInterface {
-    suspend fun getApiData(httpclient:HttpClient) :List<apiDataItem> = httpclient.get("$BASE_URl/v1/all").body()
+    suspend fun getApiData(httpclient:HttpClient) :List<apiDataItem>
 }
