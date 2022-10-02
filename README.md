@@ -1,6 +1,6 @@
 
 <a href = "https://github.com/Ayushsingh07/HELPERR/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+  <img src = "https://contrib.rocks/image?repo = Ayushsingh07/HELPERR"/>
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
