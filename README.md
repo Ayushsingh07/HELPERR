@@ -20,7 +20,7 @@ If you are willing to increase the contribute to this code, feel free to create 
 ## How to get your Pull Request Accepted.
 
 Follow the given steps for easy acceptance of your PRs.
-1. Follow  the authors of this repository and star this repository.
+1. star this repository.
 2. Try to use comments in your code and make genuine changes.
 3. Create a Pull Request.
 ## Authors
