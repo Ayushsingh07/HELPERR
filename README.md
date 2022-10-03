@@ -10,9 +10,9 @@
 OPEN FOR ALL LETS START OPEN-SOURCE AND ACE IT.
 
 <h>Let's Get It Started</h>
-
-<center>![gojo-satoru-jujutsu-kaisen](https://user-images.githubusercontent.com/78909117/193577978-12043c12-5409-4d4d-a145-b03d9e59be3c.gif)</center>
-
+<p align="center">
+![gojo-satoru-jujutsu-kaisen](https://user-images.githubusercontent.com/78909117/193577978-12043c12-5409-4d4d-a145-b03d9e59be3c.gif)
+  </p>
 
 ## Contributing
 
