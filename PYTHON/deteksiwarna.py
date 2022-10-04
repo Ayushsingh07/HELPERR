@@ -33,6 +33,7 @@ while(1):
     # show color detection result
     cv2.imshow("Color Tracking", img)
     cv2.imshow("Red", res)
+    print("Hello")#updation
 
     if cv2.waitKey(10) & 0xFF == 27:
         cap.release()
