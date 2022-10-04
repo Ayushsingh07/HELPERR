@@ -5,5 +5,5 @@ def odd_or_even(number):
         return 'odd'
 
 result = odd_or_even(int(input('Enter a number: ')))
-
+print("Hello") #updation
 print(f'The number you entered is {result}.')
