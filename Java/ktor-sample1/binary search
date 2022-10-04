@@ -1,0 +1,30 @@
+import java.util.Scanner;
+class BinarySearch
+{
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int ar[]={3,5,74,23,35,85,9,2,12,70,62};        //sample array
+        int l=ar.length;                                //taking out length of the array
+
+        System.out.println("Enter the number you are looking for");         //number to be searched
+        int n=sc.nextInt();
+        
+        boolean found=false;
+        int i=-1;
+
+        for(int x=0;x<=l-1;x++)                 //loop for binary search 
+        {
+            if(ar[x]==n)                        //checks each element to the given number
+            {
+                i=x;                            //index is noted
+                found=true;                     //flag turns true
+                break;                          
+            }
+        }
+
+        if(found)
+        System.out.println("number found at index "+i);         //displaying the message along with the index
+        else System.out.println("number not found");
+    }
+}
