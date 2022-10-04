@@ -3,9 +3,9 @@ const userChoiceDisplay = document.getElementById('user-choice')
 const resultDisplay = document.getElementById('result')
 const possibleChoices = document.querySelectorAll('button')
 
-let userChoice
-let computerChoice
-let result
+var userChoice
+var computerChoice
+var result
 
 possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click',(e) => {
     userChoice = e.target.id
