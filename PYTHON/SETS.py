@@ -125,7 +125,11 @@ a.isdisjoint(b)
 
 
 #List
-l=[1,2,3,4,5]
+import random
+l = []
+for i in range(0,5):
+  n = random.randint(1,30)
+  l.append(n)
 
 
 # In[21]:
