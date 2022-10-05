@@ -45,6 +45,7 @@ function sendOtp(mobile, otp) {
         headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer <TOKEN>' },
     })
     console.log(response)
+    console.log(response)
 
     return response
 }
