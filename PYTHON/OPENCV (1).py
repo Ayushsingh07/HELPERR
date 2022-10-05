@@ -136,7 +136,7 @@ cv2.destroyAllWindows()
      #   break;
       #  vid.release()
 #cv2.detroyAllWindows()
-
+print("done ")
 
 # In[ ]:
 
