@@ -70,4 +70,4 @@ for col in range(Columns+1):
     window.grid_columnconfigure(col,weight=1)
  
 window.mainloop()
-
+print("nice work")
