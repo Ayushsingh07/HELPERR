@@ -6,7 +6,7 @@ body{
 
 .loader-line {
     width: 320px;
-    height: 3px;
+    height: 5px;
     left: 29% !important;
     top: 57% !important;
     position: relative;
