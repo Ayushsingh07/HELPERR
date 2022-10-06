@@ -97,3 +97,4 @@ while True:
 # we print thanks for playing
 print("\nThanks for playing")
 print("hii")
+print("yo")
