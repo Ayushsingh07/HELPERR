@@ -34,3 +34,4 @@ print("\nThanks for playing!\n")
 #updation
 print("Hello")
 print("Hello")
+print("huii")
