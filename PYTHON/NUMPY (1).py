@@ -121,8 +121,8 @@ print(arr[0])
 # In[24]:
 
 
+#arr = np.array([[[[[1]]]]])
 arr = np.array([[[[[1]]]]])
-
 
 # In[25]:
 
