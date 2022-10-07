@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            storeFile file("../Android Keys.jks")
+            storePassword "StepCounter"
+            keyAlias "com.paitoanderson.stepcounter"
+            keyPassword "StepCounter"
+        }
+    }
+    buildTypes {
+        debug {
+            useJack true
+            applicationIdSuffix ".dev"
+        }
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.paitoanderson.stepcounter"
+        minSdkVersion 19
+        targetSdkVersion 21
+        versionCode 102
+        versionName "1.0.2"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
