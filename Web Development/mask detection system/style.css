@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+body{
+    background:linear-gradient(rgba(0,0,0,0.2)50%,rgba(0, 0, 0, 0.2)50%);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    padding-top: 22px;
+    background: transparent;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    letter-spacing: 0.5px;
+}
+
+.banner{
+    margin: 50px;
+    padding: 40px;
+    font-size: 28px;
+    font-weight: 20px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    letter-spacing: 1px;
+    outline-style: dotted;
+    border-radius: 400px;
+    background:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.45)), url(Maskdetection3.jpg);
+    background-position: 67px;
+    background-repeat: repeat-x;
+    color:brown;
+}
+
+.start{
+    position: relative;
+    text-align: center;
+    border: none;
+}
+
+.start a{
+    text-decoration: none;
+    background-color:gray;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 100%;
+}
+
+a:hover{
+    background-color: chocolate;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+    transition: 0.2s;
+}
