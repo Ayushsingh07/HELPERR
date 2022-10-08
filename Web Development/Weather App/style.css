@@ -1,0 +1,43 @@
+body{
+    background-image: url("img/background_image.jpg");
+    background-color: black;
+    color: white;
+}
+
+#heading{
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+   color:ghostwhite;
+}
+
+form{
+    margin: 100px;
+}
+#city{
+    font-size: 20px;
+    background-color: white;
+}
+#enter_city{
+    font-size: 20px;
+}
+#submit{
+    font-size: 20px;
+    background-color: chartreuse;
+}
+
+#output{
+       font-size: 20px;
+        margin-left: 40%;
+        height: 20rem;
+        width: 15rem;
+        background-color: rgb(152, 228, 165);
+        text-align: center;
+        border-radius: 16px;
+        border: 2px solid rgb(14, 43, 1);
+}
+
+.result{
+    font-size: 30px;
+    padding-top: 50px;
+}
