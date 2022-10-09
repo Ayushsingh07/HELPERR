@@ -3,6 +3,7 @@ class Solution(object):
         d=abs(goal-sum(nums))
         c=d%limit
         if c==0:
+            print(d)
             return d//limit
         else:
             return d//limit+1

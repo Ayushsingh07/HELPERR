@@ -80,6 +80,8 @@ print (arr)
 # 0-D array
 arr = np.array(200)
 print(arr)
+#again print
+print(arr)
 
 
 # In[16]:

@@ -18,6 +18,7 @@ while True:
     print("Valid Mobile Number:",phonenumbers.is_valid_number(mobileNo)) 
 
 
+    #print("Checking possibility of Number:", phonenumbers.is_possible_number(mobileNo))
     print("Checking possibility of Number:", phonenumbers.is_possible_number(mobileNo))
    
 
