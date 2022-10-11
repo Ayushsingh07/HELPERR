@@ -13,3 +13,4 @@ def mongoConnect():
     client.close()
 
 mongoConnect()
+print("fwdf")
