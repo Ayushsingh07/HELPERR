@@ -1,0 +1,14 @@
+int maxDepth(Node* root) {
+        
+        if(root==NULL)
+            return 0;
+        int max=0;
+        for(auto it: root->children)
+        {
+            int temp=maxDepth(it);
+            if(temp>max)
+                max=temp;
+        }
+        return 1+max;
+        
+    }
