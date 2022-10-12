@@ -1,0 +1,56 @@
+Program for Array Rotation.
+
+#include<iostream>
+
+using namespace std;
+
+//calling a funtion Rotatearray 
+
+void Rotatearray(int arr[],int d,int n)
+{
+  //declare a temporary array 
+  int temp[n];
+  int k=0;
+//addding the elements from index d to n-1 into temporary array
+  for(int i=d;i<n;i++){
+  temp[k]=arr[i];
+  k++;
+  }
+
+  //addding the elements from  index 0 to d into  temporary array
+   for (int i=0;i<n;i++){
+   temp[k]=arr[i];
+   k++;
+   }
+
+   //copying the elements 
+
+   for(int i=0;i<n;i++){
+   arr[i]=temp[i];
+}
+}
+
+//calling another funtion printarr to print the array to usere screen
+
+void printarr( int arr[],int n)
+{
+    for(int i=0;i<n;i++){
+        cout<<arr[i]<<" ";
+
+    }
+}
+
+//driver code
+
+int main()
+{
+    int arr[]={1,2,3,4,5,6,7,8,9};
+    int N=sizeof(arr) / sizeof(arr[0]);
+    int d=3;
+    Rotatearray(arr,d,N);
+    printarr(arr,N);
+    return 0;
+
+    
+        
+        }
