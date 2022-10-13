@@ -33,6 +33,7 @@ print('Composing Email...')
 
 SERVER = 'smtp.gmail.com'
 PORT = 587
+print("jai shree RAM!!!!!!")
 FROM = 'your email id'
 TO = 'to email id'
 PASS = 'your email password '
