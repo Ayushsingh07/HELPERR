@@ -105,7 +105,7 @@ def chat():
 #initiate the conversation
 if __name__ == "__main__":
     chat()
-
+print('end of the program')
 
 # In[ ]:
 
