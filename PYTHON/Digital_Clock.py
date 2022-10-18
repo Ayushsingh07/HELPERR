@@ -15,5 +15,6 @@ tk_window.title("Digital Clock")
 clock = Label(tk_window, font=("Helvetica", 60, "italic"), fg="#00FF33", bg="#000000")
 clock.grid(row=1, column=2, pady=10, padx=10)
 timing()
+print('done')
 
 tk_window.mainloop()
