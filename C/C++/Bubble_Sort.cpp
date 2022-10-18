@@ -23,7 +23,7 @@ int main()
     }
     cout << "\nArray Sorted Successfully!\n";
     cout << "\nThe New Array is: \n";
-    for (i = 0; i < n; i++)
+    for (i = 0; i <= n-1; i++)
         cout << arr[i] << " ";
     cout << endl;
     return 0;
