@@ -223,7 +223,7 @@ func1("Mango")
 
 # Let's see how to access the doctring which we defined while making function func.
 print(func.__doc__)
-
+priny("hello")
 
 # In[31]:
 
