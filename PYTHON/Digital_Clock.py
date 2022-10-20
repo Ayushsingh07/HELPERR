@@ -18,3 +18,5 @@ timing()
 print('done')
 
 tk_window.mainloop()
+tk_window.mainloop()
+
