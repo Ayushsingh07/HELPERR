@@ -4,3 +4,5 @@ while True:
     print(socket.gethostbyname(m))
     if input("Do you want to continue")!='y':
         break
+                break
+
