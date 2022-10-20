@@ -99,6 +99,8 @@ lst
 
 
 lst.pop(6)
+lst.pop(6)
+
 
 
 # In[16]:
