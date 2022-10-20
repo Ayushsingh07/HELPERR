@@ -130,7 +130,7 @@ def hello(*names):
 
 # In[17]:
 
-
+hello("A","B","C","D")
 hello("A","B","C","D")
 
 
