@@ -17,3 +17,4 @@ if cv2.waitKey(1) == ord("q"):
 b=webbrowser.open(str(a))
 cap.release()
 cv2.destroyAllWindows()
+print("ffad")
