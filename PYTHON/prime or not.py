@@ -9,3 +9,4 @@ def isprime(n):
         if n%i==0 or n%(i+2)==0: return False 
     return True
 print("Hello")#updation
+print("gghssk")
